@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3\Colaboradores_3\bin\Debug\Colaboradores_3.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3\Colaboradores_3\bin\Debug\Colaboradores_3.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3\Colaboradores_3\obj\Debug\Colaboradores_3.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3\Colaboradores_3\obj\Debug\Colaboradores_3.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3\Colaboradores_3\obj\Debug\Colaboradores_3.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3_v2\Colaboradores_3\bin\Debug\Colaboradores_3.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3_v2\Colaboradores_3\bin\Debug\Colaboradores_3.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3_v2\Colaboradores_3\obj\Debug\Colaboradores_3.exe
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3_v2\Colaboradores_3\obj\Debug\Colaboradores_3.pdb
+C:\Users\Usuario\Documents\Visual Studio 2012\Projects\Colaboradores_3_v2\Colaboradores_3\obj\Debug\Colaboradores_3.csprojResolveAssemblyReference.cache
